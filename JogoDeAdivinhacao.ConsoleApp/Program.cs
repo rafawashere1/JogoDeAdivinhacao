@@ -90,8 +90,9 @@
                     Console.WriteLine("************************************\n");
                     break;
                 }
-                
-                Console.WriteLine();
+
+                Console.Clear();
+                Console.WriteLine("-------- Jogo de Adivinhação --------\n");
                 Console.WriteLine(">> Acabaram suas tentativas!");
                 Console.WriteLine(">> Você perdeu!");
 
